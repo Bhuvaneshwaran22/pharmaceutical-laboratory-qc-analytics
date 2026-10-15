@@ -60,7 +60,23 @@ The solution helps QC teams:
 - **10** testing parameters
 
 ---
+---
 
+## 📊 Power BI Dashboard
+
+This project includes a 3-page Power BI dashboard for pharmaceutical laboratory quality control analytics.
+
+### 1. QC Executive Dashboard
+
+![QC Executive Dashboard](screenshots/dashboard_page1.png)
+
+### 2. QC Investigation & Risk Analysis
+
+![QC Investigation & Risk Analysis](screenshots/dashboard_page2.png)
+
+### 3. Analyst & Operational Performance
+
+![Analyst & Operational Performance](screenshots/dashboard_page3.png)
 ## 🗄️ Database Architecture
 
 The project uses a relational laboratory QC data model.
